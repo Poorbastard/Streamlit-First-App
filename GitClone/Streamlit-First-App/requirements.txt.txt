@@ -1,5 +1,0 @@
-streamlit
-datetime
-yfinance
-fbprophet
-plotly
